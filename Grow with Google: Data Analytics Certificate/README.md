@@ -1,1 +1,1 @@
-
+This is the capstone project I completed in completion of the Grow with Google Data Analytics Certificate. I was tasked with analyzing fitness tracker data to help provide new marketing initiatives to Bellabeat, a tech company focused on women's health and wellness.
